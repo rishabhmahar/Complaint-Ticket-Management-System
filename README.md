@@ -1,8 +1,8 @@
-Complaint / Ticket Management System
+# Complaint / Ticket Management System
 
 A simple yet powerful Python + SQL based system that helps organizations manage user complaints and service tickets efficiently. It handles ticket creation, assignment, status updates, and conversation logs while maintaining clean database relationships and timestamps.
 
-📌 Features
+# 📌 Features
 
 * User registration
 
@@ -24,8 +24,8 @@ A simple yet powerful Python + SQL based system that helps organizations manage 
 
 * MySQL database with relationships, constraints, and normalized structure
 
-🧩 Tech Stack
+# 🧩 Tech Stack
 
-Python 3
-MySQL 
-mysql-connector-python
+* Python 3
+* MySQL 
+* mysql-connector-python
